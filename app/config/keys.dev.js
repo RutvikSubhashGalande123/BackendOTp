@@ -1,0 +1,11 @@
+module.exports = {
+  ENV: process.env.DEVELOPMENT_ENV,
+  PORT: process.env.DEVELOPMENT_PORT,
+  DATABASE_URI: process.env.DEVELOPMENT_DATABASE_URI,
+  APP_URL: process.env.DEVELOPMENT_APP_URL,
+  DB_NAME: process.env.DEVELOPMENT_DB_NAME,
+  DB_USER: process.env.DEVELOPMENT_DB_USER,
+  DB_PASSWORD: process.env.DEVELOPMENT_DB_PASSWORD,
+  DB_HOST: process.env.DEVELOPMENT_DB_HOST,
+  DB_DIALECT: process.env.DEVELOPMENT_DB_DIALECT,
+};

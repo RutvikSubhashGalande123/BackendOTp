@@ -1,0 +1,14 @@
+2024-09-20T04:57:27.346Z [info] : routes
+2024-09-20T04:57:27.349Z [info] : routes
+2024-09-20T04:57:27.361Z [info] : Server started {"port":"8081","environment":"development","apiServerName":"Gojii-Backend-Service","appUrl":"http://localhost:8081"}
+2024-09-20T04:57:27.450Z [error] : Database connection failed {"error":""}
+2024-09-20T04:57:27.451Z [error] : Unhandled Rejection {"reason":{"name":"SequelizeConnectionRefusedError","parent":{"code":"ECONNREFUSED","fatal":true},"original":{"code":"ECONNREFUSED","fatal":true}}}
+2024-09-20T04:58:26.834Z [info] : System Performance {"memory":{"rss":"58.03 MB","heapTotal":"26.31 MB","heapUsed":"23.98 MB","external":"3.68 MB","freeMemory":"412.89 MB","totalMemory":"7.76 GB","memoryUsagePercentage":"94.80%"},"cpu":{"user":687000,"system":218000},"uptime":"0d 0h 1m 1s","pid":32944,"nodeVersion":"v20.3.1","platform":"win32","arch":"x64"}
+2024-09-20T04:59:26.843Z [info] : System Performance {"memory":{"rss":"43.14 MB","heapTotal":"26.31 MB","heapUsed":"24.11 MB","external":"3.68 MB","freeMemory":"997.86 MB","totalMemory":"7.76 GB","memoryUsagePercentage":"87.44%"},"cpu":{"user":687000,"system":218000},"uptime":"0d 0h 2m 1s","pid":32944,"nodeVersion":"v20.3.1","platform":"win32","arch":"x64"}
+2024-09-20T05:00:26.855Z [info] : System Performance {"memory":{"rss":"43.2 MB","heapTotal":"26.31 MB","heapUsed":"24.12 MB","external":"3.68 MB","freeMemory":"618.65 MB","totalMemory":"7.76 GB","memoryUsagePercentage":"92.21%"},"cpu":{"user":687000,"system":218000},"uptime":"0d 0h 3m 1s","pid":32944,"nodeVersion":"v20.3.1","platform":"win32","arch":"x64"}
+2024-09-20T05:01:26.866Z [info] : System Performance {"memory":{"rss":"43.26 MB","heapTotal":"26.31 MB","heapUsed":"24.13 MB","external":"3.68 MB","freeMemory":"415.25 MB","totalMemory":"7.76 GB","memoryUsagePercentage":"94.77%"},"cpu":{"user":687000,"system":218000},"uptime":"0d 0h 4m 1s","pid":32944,"nodeVersion":"v20.3.1","platform":"win32","arch":"x64"}
+2024-09-20T05:02:35.101Z [info] : routes
+2024-09-20T05:02:35.103Z [info] : routes
+2024-09-20T05:02:35.108Z [info] : Server started {"port":"8081","environment":"development","apiServerName":"Gojii-Backend-Service","appUrl":"http://localhost:8081"}
+2024-09-20T05:02:35.133Z [error] : Database connection failed {"error":""}
+2024-09-20T05:02:35.135Z [error] : Unhandled Rejection {"reason":{"name":"SequelizeConnectionRefusedError","parent":{"code":"ECONNREFUSED","fatal":true},"original":{"code":"ECONNREFUSED","fatal":true}}}
